@@ -69,7 +69,7 @@ text-analysis/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/text-analysis.git
+git clone https://github.com/Mindbender66/text-analysis.git
 cd text-analysis
 ```
 
@@ -139,9 +139,9 @@ You can also run this directly in your browser — no setup needed:
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Valmiki Sarath**
+- GitHub: [@Mindbender66](https://github.com/Mindbender66)
+- Email: valmikisarath6666@gmail.com
 
 ---
 
